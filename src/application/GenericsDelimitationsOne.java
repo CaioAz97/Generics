@@ -9,7 +9,7 @@ import java.util.List;
 import entities.Product;
 import services.CalculationService;
 
-public class GenericsDelimitations {
+public class GenericsDelimitationsOne {
 
 	public static void main(String[] args) {
 	
